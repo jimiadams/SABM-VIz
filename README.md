@@ -1,4 +1,4 @@
-# SABM VIz
+# SABM Viz
 
 These files include the main document and all appendices for my [*Socius* paper](https://journals.sagepub.com/doi/full/10.1177/2378023118816545) with David Schaefer on Visualizing the Microsteps of the simulations in Stochastic Actor Based Model estimation.
 
