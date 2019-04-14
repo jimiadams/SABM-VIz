@@ -4,8 +4,8 @@ These files include the main document and all appendices for my [*Socius* paper]
 
 What is included is as follows:
 
-## SABM_Viz_181026.html
-This file is the Rmd produced single page of our penultimate version of the manuscript published in Socius, and including the visualization in-line, which Socius unfortunately was unable to do.
+## [Full Manuscript](https://jimiadams.github.io/SABM-VIz/)
+This file is the Rmd-produced single page of our penultimate version of the manuscript that was published in *Socius*. It includes the main visualization in-line as we intended, but *Socius* unfortunately was unable to do.
 
 ## 01_Model & Sim.R
 This file is code for running the SAB model, and outputting a single chain from the results in dataframe format. In the example included in the paper, we use the 50th chain from the estimation between Waves I and II. You can change these settings in the code. This model uses the s50 dataset that come included in the RSiena package. The model estimation require no other external data, but execution requires that you have the [RSiena](https://cran.r-project.org/web/packages/RSiena/index.html) and [sna](https://cran.r-project.org/web/packages/sna/index.html) packages (and their respective dependencies) installed.
