@@ -16,7 +16,7 @@ This file takes the dataframe output from the file above, combines it with the i
 ## 03_Viz_Only.html
 This file is only the dynamic visualization (Figure 1) as an embeddable html file. 
 
-
+## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
